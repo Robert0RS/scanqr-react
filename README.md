@@ -1,7 +1,7 @@
 ## PASOS PARA INSTALAR y ARRANQUE
-cd scanqr-react
-npm install
-npm run dev
+## cd scanqr-react
+## npm install
+## npm run dev
 
 ## React App en:
 http://localhost:3002/
