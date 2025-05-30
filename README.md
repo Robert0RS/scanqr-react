@@ -1,3 +1,17 @@
+## PASOS PARA INSTALAR y ARRANQUE
+cd scanqr-react
+npm install
+npm run dev
+
+## React App en:
+http://localhost:3002/
+
+## Se almacena en:
+http://localhost:3001/api/codigos
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
